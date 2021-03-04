@@ -1,3 +1,8 @@
+//refering to the controllers in the examples
+//controllers will run based on the route that we hit
+//first 2 lines can be used in the index.js under routes since it will be hitting the same routes
+
+
 const router = require('express').Router();
 const ctrl = require('../controllers');
 

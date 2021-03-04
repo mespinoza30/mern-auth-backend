@@ -1,3 +1,6 @@
+//controllers for each model
+//
+
 const db = require('../models');
 
 const index = (req, res) => {
